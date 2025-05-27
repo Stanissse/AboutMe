@@ -22,7 +22,7 @@ repository               : "stanissse.github.io/AboutMe"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "img_2.png"
+  avatar           : "img_2.jpeg"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
