@@ -12,10 +12,14 @@ redirect_from:
 Education
 ======
 * Ph.D in Exerimental Quantum Physics, University of Innsbruck (AT), 2020
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.Sc in Experimental Quantum Physics, University of Innsbruck (AT), 2017
+* B.Sc in Physics, University of Innsbruck (AT), 2017
 
-Work experience
+Work experience 
+======
+* work as tiler nad construction site manager 1997-2012
+
+Academic work experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
