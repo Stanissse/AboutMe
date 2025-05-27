@@ -13,37 +13,36 @@ Education
 ======
 * Ph.D in Exerimental Quantum Physics, University of Innsbruck (AT), 2020
 * M.Sc in Experimental Quantum Physics, University of Innsbruck (AT), 2017
-* B.Sc in Physics, University of Innsbruck (AT), 2017
+* B.Sc in Physics, University of Innsbruck (AT), 2015
 
 Work experience 
 ======
-* work as tiler nad construction site manager 1997-2012
+* work as tiler and construction site manager 1997-2012
 
 Academic work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2017-2020: Research Assistant/PhD student
+  * Institute for biomedical physics 
+  * Medical University of Innsbruck 
+  * Reseach in single molecule tracking
+  * Supervisor: Professor Jesacher Alexander
+ 
+* 2029 - now Post-Doc
+  * University Hospital for Hearing, Speech, and Voice Disorders 
+  * Medical University of Innsbruck 
+  * Audiological Research 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Initialisation, planing  and operative execution of clinical trials
+  Initialisation, planing  and operative execution of neuroaudiological studies using EEG,  fNIRS, and eye tracking 
+* Clinical experience 
+  * Fitting of hearing implants 
+  * Intraoperative function checks
+* Development of AI algorithms 
+  * Image analysis 
+  * Time series analysis 
+  * voice and speech analysis
 
 Publications
 ======
