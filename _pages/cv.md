@@ -27,7 +27,7 @@ Academic work experience
   * Reseach in single molecule tracking
   * Supervisor: Professor Jesacher Alexander
  
-* 2029 - now Post-Doc
+* 2020 - now Post-Doc
   * University Hospital for Hearing, Speech, and Voice Disorders 
   * Medical University of Innsbruck 
   * Audiological Research 
@@ -35,7 +35,7 @@ Academic work experience
 Skills
 ======
 * Initialisation, planing  and operative execution of clinical trials
-  Initialisation, planing  and operative execution of neuroaudiological studies using EEG,  fNIRS, and eye tracking 
+* Initialisation, planing  and operative execution of neuroaudiological studies using EEG,  fNIRS, and eye tracking 
 * Clinical experience 
   * Fitting of hearing implants 
   * Intraoperative function checks
