@@ -22,9 +22,9 @@ My research integrates **neurophysiology**, **audiology**, and **speech sciences
 
 ---
 
-### 🔬 Current Research
+### 🔬 Current Research Focus
 
-I’m currently leading a project using **fNIRS** and **electrode-specific stimulation** to investigate **cortical responses to cochlear implant tonotopy**. I also analyze raw BERA data and develop novel processing pipelines for clinical EEG.
+My current research centers on **loudness perception** using pupillometry, the understanding of **directional hearing in children* with and without hearing aids, and the use of **intraoperative measures** during cochlear implantation to **optimize audiological outcomes**.
 
 ---
 
