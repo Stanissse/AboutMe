@@ -2,7 +2,7 @@
 title: "Mathematics III: Numerical Methods"
 collection: teaching
 type: "Lecture"
-permalink: /teaching/Math-MCI-3
+permalink: /teaching/Math-MCI-4
 venue: "Management Center Innsbruck"
 date: 2021-01-01
 location: "Innsbruck, Austria"
