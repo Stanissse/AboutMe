@@ -56,8 +56,8 @@ Teaching
   
 Skills
 ======
-* Initialisation, planing  and operative execution of clinical trials
-* Initialisation, planing  and operative execution of neuroaudiological studies using EEG,  fNIRS, and eye tracking 
+* End-to-end management of clinical trials, including planning, initiation, and execution
+* End-to-end management including planning, initiation, and execution of neuroaudiological studies using EEG,  fNIRS, and eye tracking
 * Clinical experience 
   * Fitting of hearing implants 
   * Intraoperative function checks
@@ -78,12 +78,3 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
