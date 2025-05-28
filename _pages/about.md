@@ -9,13 +9,15 @@ redirect_from:
 
 
 <br><br>
-I’m **Dr. Philipp Zelger**, a researcher in auditory neuroscience and clinical audiology at **Medical University of Innsbruck Austria**. My work focuses on understanding and improving hearing through brain-based diagnostics and auditory prosthetics such as cochlear implants.
+I’m **Dr. Philipp Zelger**, a researcher in auditory neuroscience and clinical audiology at **Medical University of Innsbruck Austria**. My work focuses on understanding and improving hearing rehabilitation through brain-based diagnostics, pupillometry, and auditory implants.
 
 My research integrates **neurophysiology**, **audiology**, and **speech sciences**, with an emphasis on:
+- Understanding of loudness perception
+- Directional hearing in children and adults
 - Brainstem and cortical auditory evoked potentials (EEG, BERA)
 - Tinnitus and hearing loss mechanisms
 - Cochlear implant rehabilitation
-- fNIRS and multimodal neuroimaging
+- fNIRS, EEG, and multimodal neuroimaging
 - Acoustic and voice analysis in clinical populations
 
 ---
@@ -35,14 +37,14 @@ I’m currently leading a project using **fNIRS** and **electrode-specific stimu
 
 ### 🎙️ Recent Talks
 
-- **Keynote:** *Surgical and Audiological Considerations in CI Rehabilitation for Inner Ear Malformations* (with Prof. Schmutzhard)  
-- **Talk:** *EEG Markers of Loudness Perception* – [Conference Name]
+- **Keynote:** *Surgical and Audiological Considerations in CI Rehabilitation for Inner Ear Malformations* (with Prof. Schmutzhard) [9th International Hearing Implant Rehabilitation Workshop 2025 - Med-El]
+- **Talk:** *LONGITUDINAL CHANGES IN ELECTRICAL STAPEDIUS REFLEX THRESHOLDS (eSRT) IN CHILDREN WITH COCHLEAR IMPLANTS [17th Congress of European Federation of Audiology Societies]
 
 ---
 
 ### 📬 Contact
 
-For collaborations or inquiries, please reach me at my email.
+For collaborations or inquiries, please reach out to me at my email.
 
 ---
 
