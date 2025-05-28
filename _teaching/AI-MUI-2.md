@@ -1,5 +1,5 @@
 ---
-title: "Artificial Intelligence in Medicine 2"
+title: "Artificial Intelligence in Medicine"
 collection: teaching
 type: "Lecture"
 permalink: /teaching/AI-MUI-2
