@@ -2,7 +2,7 @@
 title: "Audiology for Speech and Language Therapists"
 collection: teaching
 type: "Lecture series"
-permalink: /teaching/audiology_FHG-4
+permalink: /teaching/audiology_FHG
 venue: "FH Gesundheit Innsbruck"
 date: 2025-01-01
 location: "Innsbruck, Austria"
