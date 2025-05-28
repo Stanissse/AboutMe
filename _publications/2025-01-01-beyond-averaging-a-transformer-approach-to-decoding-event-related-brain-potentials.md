@@ -6,7 +6,7 @@ permalink: /publication/2025-01-01-beyond-averaging-a-transformer-approach-to-de
 excerpt: 'Beyond Averaging: A Transformer Approach to Decoding Event Related Brain Potentials'
 date: 2025-01-01
 venue: 'NeuroImage'
-paperurl: ''
+paperurl: 'https://pubmed.ncbi.nlm.nih.gov/39864567/'
 slidesurl: ''
 bibtexurl: ''
 citation: 'Zelger, P., Arnold, M., Rossi, S., Seebacher, J., Muigg, F., Graf, S., Rodríguez-Sánchez, A. (2025). "Beyond Averaging: A Transformer Approach to Decoding Event Related Brain Potentials." <i>NeuroImage</i>.'
