@@ -8,13 +8,4 @@ date: 2020-01-01
 location: "Innsbruck, Austria"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Practical training in audiological measurement techniques, including pure-tone audiometry, tympanometry, otoacoustic emissions, and brainstem evoked response audiometry (BERA)
