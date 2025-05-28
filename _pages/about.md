@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 
-
-Welcome! I’m **Dr. Philipp Zelger**, a researcher in auditory neuroscience and clinical audiology at **Medical University of Innsbruck Austria**. My work focuses on understanding and improving hearing through brain-based diagnostics and auditory prosthetics such as cochlear implants.
+<br><br>
+I’m **Dr. Philipp Zelger**, a researcher in auditory neuroscience and clinical audiology at **Medical University of Innsbruck Austria**. My work focuses on understanding and improving hearing through brain-based diagnostics and auditory prosthetics such as cochlear implants.
 
 My research integrates **neurophysiology**, **audiology**, and **speech sciences**, with an emphasis on:
 - Brainstem and cortical auditory evoked potentials (EEG, BERA)
