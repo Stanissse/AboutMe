@@ -2,7 +2,7 @@
 title: "Instructor, ENT Practical Course, Medical University of Innsbruck (since 2020)"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/ENT-Praktikum
+permalink: /teaching/ENT-Praktikum-2
 venue: "Medical University of Innsbruck, Department"
 date: 2014-01-01
 location: "Innsbruck, Austria"
