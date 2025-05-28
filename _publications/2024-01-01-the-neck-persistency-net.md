@@ -6,7 +6,7 @@ permalink: /publication/2024-01-01-the-neck-persistency-net
 excerpt: 'The Neck-Persistency-Net: a three-dimensional, convolution, deep neural network aids in distinguishing vital from non-vital persistent cervical lymph nodes in advanced head and neck squamous cell carcinoma after primary concurrent radiochemotherapy'
 date: 2024-01-01
 venue: 'European Archives of Oto-Rhino-Laryngology'
-paperurl: ''
+paperurl: 'https://pubmed.ncbi.nlm.nih.gov/39078472/'
 slidesurl: ''
 bibtexurl: ''
 citation: 'Santer, M., Zelger, P., Schmutzhard, J., Freysinger, W., Runge, A., Gottfried, T. M., Tröger, A., Vorbach, S., Mangesius, J., Widmann, G., et al. (2024). "The Neck-Persistency-Net: a three-dimensional, convolution, deep neural network aids in distinguishing vital from non-vital persistent cervical lymph nodes in advanced head and neck squamous cell carcinoma after primary concurrent radiochemotherapy." <i>European Archives of Oto-Rhino-Laryngology</i>.'
