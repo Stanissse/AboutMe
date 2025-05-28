@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/ENT-1
 venue: "Medical University Innsbruck, Department"
-date: 2020
+date: 2020-01-01
 location: "Innsbruck, Austria"
 ---
 
