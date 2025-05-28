@@ -6,7 +6,7 @@ permalink: /publication/2024-01-01-is-it-too-loud-ask-your-brain
 excerpt: 'Is it too loud? Ask your brain!'
 date: 2024-01-01
 venue: 'NeuroImage'
-paperurl: ''
+paperurl: 'https://pubmed.ncbi.nlm.nih.gov/39153523/'
 slidesurl: ''
 bibtexurl: ''
 citation: 'Zelger, P., Seebacher, J., Graf, S., Rossi, S. (2024). "Is it too loud? Ask your brain!" <i>NeuroImage</i>.'
