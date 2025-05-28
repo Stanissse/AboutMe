@@ -28,9 +28,8 @@ I’m currently leading a project using **fNIRS** and **electrode-specific stimu
 
 ### 📄 Latest Publications
 
-- **[Title of Most Recent Paper](#)** – *Journal Name* (2025)  
-- **[Another Recent Paper](#)** – *Conference/Journal* (2024)  
-[→ Full list of publications](/publications)
+- **[Is it too loud? Ask your brain!](https://pubmed.ncbi.nlm.nih.gov/39153523/)** – *Journal Name* (2025)  
+- **[Beyond averaging: A transformer approach to decoding event related brain potentials](https://pubmed.ncbi.nlm.nih.gov/39864567/)** – *Conference/Journal* 
 
 ---
 
