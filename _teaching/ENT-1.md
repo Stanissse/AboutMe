@@ -1,9 +1,9 @@
 ---
-title: "hhh 1"
+title: "ENT Practical Course 1"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/ENT-1
-venue: "University 1, Department"
+venue: "Medical University Innsbruck, Department"
 date: 2014-01-01
 location: "City, Country"
 ---
