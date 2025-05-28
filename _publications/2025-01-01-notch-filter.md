@@ -6,7 +6,7 @@ permalink: /publication/2025-01-01-notch-filter
 excerpt: 'The Effect of a Notch Filter in Sound Preprocessing of Active Middle Ear Implants on Speech Perception'
 date: 2025-01-01
 venue: 'Otology & Neurotology'
-paperurl: ''
+paperurl: 'https://pubmed.ncbi.nlm.nih.gov/40077835/'
 slidesurl: ''
 bibtexurl: ''
 citation: 'Zelger, P., Koci, V., Weichbold, V., Muigg, F., Raffelsberger, T., Keintzel, T., Schmutzhard, J., Seebacher, J. (2025). "The Effect of a Notch Filter in Sound Preprocessing of Active Middle Ear Implants on Speech Perception." <i>Otology & Neurotology</i>, 46(4), e91–e97.'
