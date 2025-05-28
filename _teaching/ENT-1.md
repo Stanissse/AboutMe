@@ -1,5 +1,5 @@
 ---
-title: "ENT Practical Course 1"
+title: "ENT Practical Course"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/ENT-1
