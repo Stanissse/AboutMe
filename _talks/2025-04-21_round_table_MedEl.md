@@ -4,7 +4,7 @@ title: "Inner Ear Malformations: Surgical Considerations and Hearing Rehabilitat
 collection: talks
 type: "Keynote Lecture"
 permalink: /talks/2025-04-21_round_table_MedEl
-date: 2025-04-21
+date: 2025-05-21
 location: "Innsbruck, Tirol, Austria"
 ---
 
