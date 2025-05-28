@@ -9,7 +9,7 @@ redirect_from:
 
 
 <br><br>
-I’m **Dr. Philipp Zelger**, a researcher in auditory neuroscience and clinical audiology at **Medical University of Innsbruck Austria**. My work focuses on understanding and improving hearing rehabilitation through brain-based diagnostics, pupillometry, and auditory implants.
+Hey, I’m **Dr. Philipp Zelger**, a researcher in auditory neuroscience and clinical audiology at **Medical University of Innsbruck Austria**. My work focuses on understanding and improving hearing rehabilitation through brain-based diagnostics, pupillometry, and auditory implants.
 
 My research integrates **neurophysiology**, **audiology**, and **speech sciences**, with an emphasis on:
 - Understanding of loudness perception
