@@ -7,6 +7,52 @@ redirect_from:
   - /about.html
 ---
 
+
+
+Welcome! I’m **Dr. Philipp Zelger**, a researcher in auditory neuroscience and clinical audiology at **Medical University of Innsbruck Austria**. My work focuses on understanding and improving hearing through brain-based diagnostics and auditory prosthetics such as cochlear implants.
+
+My research integrates **neurophysiology**, **audiology**, and **speech sciences**, with an emphasis on:
+- Brainstem and cortical auditory evoked potentials (EEG, BERA)
+- Tinnitus and hearing loss mechanisms
+- Cochlear implant rehabilitation
+- fNIRS and multimodal neuroimaging
+- Acoustic and voice analysis in clinical populations
+
+---
+
+### 🔬 Current Research
+
+I’m currently leading a project using **fNIRS** and **electrode-specific stimulation** to investigate **cortical responses to cochlear implant tonotopy**. I also analyze raw BERA data and develop novel processing pipelines for clinical EEG.
+
+---
+
+### 📄 Latest Publications
+
+- **[Title of Most Recent Paper](#)** – *Journal Name* (2025)  
+- **[Another Recent Paper](#)** – *Conference/Journal* (2024)  
+[→ Full list of publications](/publications)
+
+---
+
+### 🎙️ Recent Talks
+
+- **Keynote:** *Surgical and Audiological Considerations in CI Rehabilitation for Inner Ear Malformations* (with Prof. Schmutzhard)  
+- **Talk:** *EEG Markers of Loudness Perception* – [Conference Name]
+
+---
+
+### 📬 Contact
+
+For collaborations or inquiries, please [get in touch](/contact) or reach me at [your-email@example.com].
+
+---
+
+
+
+
+
+
+
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 A data-driven personal website
