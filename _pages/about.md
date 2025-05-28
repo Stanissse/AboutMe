@@ -24,7 +24,7 @@ My research integrates **neurophysiology**, **audiology**, and **speech sciences
 
 ### 🔬 Current Research Focus
 
-My current research centers on **loudness perception** using pupillometry, the understanding of **directional hearing in children* with and without hearing aids, and the use of **intraoperative measures** during cochlear implantation to **optimize audiological outcomes**.
+My current research centers on **loudness perception** using pupillometry, the understanding of **directional hearing in children** with and without hearing aids, and the use of **intraoperative measures** during cochlear implantation to **optimize audiological outcomes**.
 
 ---
 
