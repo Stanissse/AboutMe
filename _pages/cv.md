@@ -66,6 +66,12 @@ Skills
   * Time series analysis 
   * voice and speech analysis
 
+Languages
+======
+* German (fluent)
+* English (fluent)
+* Italian (advanced knowledge)
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
