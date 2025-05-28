@@ -6,6 +6,7 @@ permalink: /teaching/Diplom_MUI-2
 venue: "Medical University Innsbruck"
 date: 2020-01-01
 location: "Innsbruck, Austria"
+pos: 2
 ---
 
 Supervision of graduate students from the Medical University of Innsbruck **(since 2020)**
