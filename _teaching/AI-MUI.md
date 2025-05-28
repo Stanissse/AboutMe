@@ -2,7 +2,7 @@
 title: "Artificial Intelligence in Medicine"
 collection: teaching
 type: "Lecture"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/AI-MUI
 venue: "Medical University Innsbruck"
 date: 2023-2024
 location: "Innsbruck, Austria"
