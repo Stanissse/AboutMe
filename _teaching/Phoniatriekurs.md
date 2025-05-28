@@ -8,4 +8,4 @@ date: 2025-04-25
 location: "Salzburg, Austria"
 ---
 
-Basic and advanced concepts of objective methods for audiometry in paediatric patients
+Basic and advanced concepts of objective methods for audiometry in paediatric patients for ENT physicians in specialisation as phoniatrists
